@@ -1,0 +1,37 @@
+body {
+  background: linear-gradient(45deg, red, orange, yellow, green, blue, indigo, violet, red);
+  color: #fff;
+  padding: 25px;
+  font-family: times-new-roman;
+}
+
+.Link {
+  font-weight: bold;
+color: #fff;
+font-family: sans;
+}
+
+a:hover {
+  color: #d3d3d3;
+}
+
+h1:hover {
+  color: #d3d3d3;
+  -webkit-text-stroke-color: white;
+}
+
+h1 {
+  font-weight: bold;
+  -webkit-text-stroke-width: 0.75px;
+  -webkit-text-stroke-color: black;
+  text-align: center;
+}
+
+#LGBTQflags {
+width: 100%;
+  height: auto;
+}
+
+.image {
+  width: 100%;
+}
